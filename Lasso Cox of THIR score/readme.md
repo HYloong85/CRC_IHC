@@ -1,6 +1,6 @@
 #### all fea data.csv
 
-Data from 8 types of organizations combined.
+Data from 8 tissue types combined.
 
 #### lasso cox.R
 
